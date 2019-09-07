@@ -10,3 +10,6 @@ character ‘0’ to the number:
 			LCD_WriteData( 9 + ‘0’ ); // will display 9 on the LCD
 
 2.(Challenge) Extend the earlier light game to maintain a score on the LCD display. The initial score is 5. Each time the user presses the button at the right time, the score increments. Each time the user fails, the score decrements. When reaching 9, show victory somehow. 
+
+## Google Doc Link: 
+https://docs.google.com/document/d/1JclkRYstx2RJlfOtnWH54n4izDS_emJbsdcthNEFl40/edit?usp=sharing
